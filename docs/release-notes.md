@@ -8,9 +8,37 @@ meta:
 
 # Release notes
 
+## Chainstack 3.8.4
+
+*December 2, 2022*
+
+### What's new
+
+* **Protocols**. [Gnosis Chain clients](/operations/gnosis/clients) updated for The Merge.
+* **Documentation**.
+  * Gnosis Chain API [reference](/api/gnosis/gnosis-api-reference) update.
+  * Debug and trace methods added to the Ethereum API [reference](/api/ethereum/ethereum-api-reference).
+  * Chainstack [Subgraphs](/subgraphs). 
+
+## Chainstack 3.8.3
+
+*November 29, 2022*
+
+### What's new
+
+* **Documentation**. Solana API [reference](/api/solana/solana-api-reference) update.
+
+## Chainstack 3.8.2
+
+*November 23, 2022*
+
+### What's new
+
+* **Documentation**. [Chainstack Marketplace listing guidelines](/marketplace).
+
 ## Chainstack 3.8.1
 
-*November 16*
+*November 16, 2022*
 
 ### What's new
 
