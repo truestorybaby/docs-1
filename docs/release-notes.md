@@ -8,6 +8,26 @@ meta:
 
 # Release notes
 
+## Chainstack 3.10
+
+*January 19, 2023*
+
+### What’s new
+
+* **Protocols**. [Filecoin](/operations/filecoin/networks) Hyperspace testnet support for elastic and dedicated nodes.
+* **Documentation**.
+  * [Filecoin](/operations/filecoin).
+  * [Filecoin tutorial](/tutorials/filecoin).
+
+## Chainstack 3.9.1
+
+*January 17, 2023*
+
+### What’s new
+
+* **APIs**. 5 [Solana APIs](/api/solana/solana-api-reference) enabled on devnet.
+* **Documentation**. Solana API [reference](/api/solana/solana-api-reference) updates.
+
 ## Chainstack 3.9
 
 *January 10, 2023*
@@ -76,8 +96,9 @@ meta:
 *November 7, 2022*
 
 ### What's new
-- **Protocols**. [Aurora](/operations/aurora/types) support for dedicated nodes.
-- **Documentation**. A simple on-chain governance tutorial for [Aurora](/tutorials/aurora).
+
+* **Protocols**. [Aurora](/operations/aurora/types) support for dedicated nodes.
+* **Documentation**. A simple on-chain governance tutorial for [Aurora](/tutorials/aurora).
 
 ## Chainstack 3.6.1
 
