@@ -8,6 +8,79 @@ meta:
 
 # Release notes
 
+## Chainstack 3.11.6
+
+*March 6, 2023*
+
+### What's new
+
+* **Protocols**. Ethereum Rinkeby and Ropsten testnets are now deprecated. For development purposes, use [Sepolia and Goerli](/operations/ethereum/networks) testnets.
+
+## Chainstack 3.11.5
+
+*February 22, 2023*
+
+### What's new
+
+* **Protocols**. Harmony migrated from devnet to [testnet](/operations/harmony/networks) for better experience.
+* **Billing**. You can now settle your failed payment by manually retrying either via topping up your crypto balance or via paying directly from your credit card.
+
+## Chainstack 3.11.4
+
+*February 20, 2023*
+
+### What’s new
+
+* **Clouds**. You can now deploy your elastic BNB Smart Chain full nodes in the Virtuozzo Amsterdam region.
+
+## Chainstack 3.11.3
+
+*February 15, 2023*
+
+### What’s new
+
+* **Tools**. You can now add the node endpoint with the **Add to MetaMask** button on the [node access page](/platform/view-node-access-and-credentials).
+
+## Chainstack 3.11.2
+
+ *February 9, 2023*
+
+### What’s new
+
+* **Billing**. The refined billing page now shows:
+   * Failed payment notification
+   * Past due invoices awaiting payments
+
+## Chainstack 3.11.1
+
+*February 8, 2023*
+
+### What’s new
+
+* **Protocols**. Gnosis Chain Sokol testnet is now deprecated. For development purposes, use [Gnosis Chain Chiado](/operations/gnosis/networks) testnet.
+
+## Chainstack 3.11
+
+*February 2, 2023*
+
+### What’s new
+
+* **Protocols**. [Optimism](/operations/optimism/networks) Goerli testnet support for elastic and dedicated nodes.
+* **Documentation**.
+   * [Optimism](/operations/optimism).
+   * [Optimism tutorial](/tutorials/optimism).
+
+## Chainstack 3.10.1
+
+*January 30, 2023*
+
+### What’s new
+
+* **Billing**. The refined billing page now shows:
+   * An overview of your subscription plan and support level
+   * A detailed **Usage** table
+   * A list of crypto payments and downloadable invoices
+
 ## Chainstack 3.10
 
 *January 19, 2023*

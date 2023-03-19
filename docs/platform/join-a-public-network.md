@@ -3,7 +3,7 @@ meta:
   - name: description
     content: Learn how to deploy a fully synchronized node in minutes with the Chainstack managed blockchain services.
   - name: keywords
-    content: ethereum corda bitcoin deploy node matic polygon bsc binance tezos avax avalanche fantom ftm solana bnb harmony starknet near
+    content: ethereum corda bitcoin deploy node matic polygon bsc binance tezos avax avalanche fantom ftm solana bnb harmony starknet near cronos optimism aptos
 ---
 
 # Join a public network
@@ -12,7 +12,7 @@ meta:
 
 1. Select a [public chain project](/glossary/public-chain-project) and click **Get started** or **Join network**.
 1. Under **Blockchain protocol**, select **Ethereum**.
-1. Under **Blockchain network**, select **Mainnet**, **Goerli testnet**, **Sepolia testnet**, **Ropsten testnet**, or **Rinkeby testnet**. Click **Next**.
+1. Under **Blockchain network**, select **Mainnet**, **Sepolia testnet**, or **Goerli testnet**. Click **Next**.
 1. Under **Type**, select whether to run an [elastic](/glossary/elastic-node) or a [dedicated](/glossary/dedicated-node) node.
 1. Under **Mode**, select whether to run a full node or an archive node. See [Modes](/operations/ethereum/modes).
 1. If you are deploying a dedicated archive node, under **Client**, select whether to run a Geth node or an Erigon node. See [Clients](/operations/ethereum/clients).
@@ -80,6 +80,19 @@ The node status will change from **Pending** to **Running** once deployed.
 
 The node status will change from **Pending** to **Running** once deployed.
 
+## Join an Optimism network
+
+1. Select a [public chain project](/glossary/public-chain-project) and click **Get started** or **Join network**.
+1. Under **Blockchain protocol**, select **Optimism**.
+1. Under **Blockchain network**, select **Goerli testnet**. Click **Next**.
+1. Under **Type**, select whether to run an [elastic](/glossary/elastic-node) or a [dedicated](/glossary/dedicated-node) node.
+1. Under **Mode**, select whether to run a full node or an archive node. See [Modes](/operations/optimism/modes).
+1. Under **Cloud provider**, select a cloud provider and a region.
+1. Provide a node name. Click **Next**.
+1. Review your changes and click **Join network**.
+
+The node status will change from **Pending** to **Running** once deployed.
+
 ## Join a NEAR network
 
 1. Select a [public chain project](/glossary/public-chain-project) and click **Get started** or **Join network**.
@@ -138,7 +151,7 @@ The node status will change from **Pending** to **Running** once deployed.
 
 1. Select a [public chain project](/glossary/public-chain-project) and click **Get started** or **Join network**.
 1. Under **Blockchain protocol**, select **Gnosis Chain**.
-1. Under **Blockchain network**, select **Mainnet** or **Sokol testnet**. Click **Next**.
+1. Under **Blockchain network**, select **Mainnet** or **Chiado testnet**. Click **Next**.
 1. Under **Type**, select whether to run an [elastic](/glossary/elastic-node) or a [dedicated](/glossary/dedicated-node) node.
 1. Under **Mode**, select whether to run a full node or an archive node. See [Modes](/operations/gnosis/modes).
 1. Under **Hosting**, select **Chainstack** or **Private**. See [Support hosting options](/platform/supported-hosting-options).
@@ -162,6 +175,18 @@ The node status will change from **Pending** to **Running** once deployed.
 
 The node status will change from **Pending** to **Running** once deployed.
 
+## Join a Filecoin network
+
+1. Select a [public chain project](/glossary/public-chain-project) and click **Get started** or **Join network**.
+1. Under **Blockchain protocol**, select **Filecoin**.
+1. Under **Blockchain network**, select **Hyperspace testnet**. Click **Next**.
+1. Under **Type**, select whether to run an [elastic](/glossary/elastic-node) or a [dedicated](/glossary/dedicated-node) node.
+1. Under **Cloud provider**, select a cloud provider and a region.
+1. Provide a node name. Click **Next**.
+1. Review your changes and click **Join network**.
+
+The node status will change from **Pending** to **Running** once deployed.
+
 ## Join a Fantom network
 
 1. Select a [public chain project](/glossary/public-chain-project) and click **Get started** or **Join network**.
@@ -169,18 +194,6 @@ The node status will change from **Pending** to **Running** once deployed.
 1. Under **Blockchain network**, select **Mainnet** or **Testnet**. Click **Next**.
 1. Under **Type**, select whether to run an [elastic](/glossary/elastic-node) or a [dedicated](/glossary/dedicated-node) node.
 1. Under **Mode**, select whether to run a full node or an archive node. See [Modes](/operations/fantom/modes).
-1. Under **Cloud provider**, select a cloud provider and a region.
-1. Provide a node name. Click **Next**.
-1. Review your changes and click **Join network**.
-
-The node status will change from **Pending** to **Running** once deployed.
-
-## Join a Filecoin network
-
-1. Select a [public chain project](/glossary/public-chain-project) and click **Get started** or **Join network**.
-1. Under **Blockchain protocol**, select **Filecoin**.
-1. Under **Blockchain network**, select **Hyperspace testnet**. Click **Next**.
-1. Under **Type**, select whether to run an [elastic](/glossary/elastic-node) or a [dedicated](/glossary/dedicated-node) node.
 1. Under **Cloud provider**, select a cloud provider and a region.
 1. Provide a node name. Click **Next**.
 1. Review your changes and click **Join network**.
@@ -275,14 +288,15 @@ The node status will change from **Pending** to **Running** once deployed.
 * [Operations: BNB Smart Chain](/operations/bsc/)
 * [Operations: Avalanche](/operations/avalanche/)
 * [Operations: Arbitrum](/operations/arbitrum/)
+* [Operations: Optimism](/operations/optimism)
 * [Operations: NEAR](/operations/near/)
 * [Operations: Aurora](/operations/aurora/)
 * [Operations: Solana](/operations/solana/)
 * [Operations: Aptos](/operations/aptos/)
 * [Operations: Gnosis Chain](/operations/gnosis/)
 * [Operations: Cronos](/operations/cronos)
-* [Operations: Fantom](/operations/fantom/)
 * [Operations: Filecoin](/operations/filecoin/)
+* [Operations: Fantom](/operations/fantom/)
 * [Operations: StarkNet](/operations/starknet/)
 * [Operations: Harmony](/operations/harmony/)
 * [Operations: Tezos](/operations/tezos/)

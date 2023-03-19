@@ -12,10 +12,8 @@ Public network:
 
 * [Ethereum](/blockchains/ethereum)
 	* Mainnet. [Full and archive nodes](/operations/ethereum/modes).
-	* Goerli testnet
 	* Sepolia testnet
-	* Ropsten testnet
-	* Rinkeby testnet
+	* Goerli testnet
 * [Polygon PoS](/blockchains/polygon)
 	* Mainnet. [Full and archive nodes](/operations/polygon/modes).
 	* Mumbai testnet
@@ -28,6 +26,8 @@ Public network:
 * [Arbitrum](/blockchains/arbitrum)
 	* Arbitrum One mainnet. [Full and archive nodes](/operations/arbitrum/modes).
 	* Arbitrum Goerli testnet
+* [Optimism](/blockchains/optimism)
+  * Optimism Goerli testnet. [Full and archive nodes](/operations/optimism/modes).
 * [NEAR](/blockchains/near)
 	* Mainnet. [Full and archive nodes](/operations/near/modes).
 	* Testnet
@@ -42,21 +42,21 @@ Public network:
   * Testnet
 * [Gnosis Chain](/blockchains/gnosis)
 	* Mainnet. [Full and archive nodes](/operations/gnosis/modes).
-	* Sokol testnet
+	* Chiado testnet
 * [Cronos](/blockchains/cronos)
   * Mainnet. [Full and archive nodes](/operations/cronos/modes).
   * Testnet
+* [Filecoin](/blockchains/filecoin)
+  * Hyperspace testnet
 * [Fantom](/blockchains/fantom)
 	* Mainnet. [Full and archive nodes](/operations/fantom/modes).
 	* Testnet
-* [Filecoin](/blockchains/filecoin)
-	* Hyperspace testnet
 * [StarkNet](/blockchains/starknet)
 	* Mainnet
 	* Testnet
 * [Harmony](/blockchains/harmony)
 	* Mainnet
-	* Devnet
+	* Testnet
 * [Tezos](/blockchains/tezos)
 	* Mainnet. [Full and archive nodes](/operations/tezos/modes).
 	* Jakartanet testnet.
